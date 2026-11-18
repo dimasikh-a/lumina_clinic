@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Aesthetic Clinic",
+  "description": "Klinik kecantikan medis terpercaya di Jakarta Selatan dengan dokter berlisensi, teknologi modern, dan perawatan kulit holistik untuk kecantikan alami Anda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
